@@ -4,4 +4,4 @@ set(CMAKE_CXX_STANDART 11)
 
 project(formatter)
 
-add_library(formatter STATIC /formatter_lib/formatter.cpp)
+add_library(formatter STATIC ${CMAKE_CURRENT_SOURCE_DIR}/formatter_lib/formatter.cpp)
