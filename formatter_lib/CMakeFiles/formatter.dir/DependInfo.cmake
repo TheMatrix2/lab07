@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/thematrix/TheMatrix2/workspace/reports/lab03/formatter_lib/formatter.cpp" "CMakeFiles/formatter.dir/formatter_lib/formatter.cpp.o" "gcc" "CMakeFiles/formatter.dir/formatter_lib/formatter.cpp.o.d"
+  "/home/thematrix/TheMatrix2/workspace/reports/lab03/formatter_lib/formatter.cpp" "CMakeFiles/formatter.dir/formatter.cpp.o" "gcc" "CMakeFiles/formatter.dir/formatter.cpp.o.d"
   )
 
 # Targets to which this target links.

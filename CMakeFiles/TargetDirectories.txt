@@ -1,3 +1,0 @@
-/home/thematrix/TheMatrix2/workspace/reports/lab03/CMakeFiles/formatter.dir
-/home/thematrix/TheMatrix2/workspace/reports/lab03/CMakeFiles/edit_cache.dir
-/home/thematrix/TheMatrix2/workspace/reports/lab03/CMakeFiles/rebuild_cache.dir
