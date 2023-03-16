@@ -24,6 +24,10 @@ $ open https://cmake.org/
 с помощью которого можно будет собирать статическую библиотеку *formatter*.
 
  ![image](https://user-images.githubusercontent.com/77126126/225571945-6a48ea5a-9f2f-475d-acd6-595d2bd19d92.png)
+ `клонирование репозитория и создание CMakeList.txt для formatter_lib`
+ 
+ ![image](https://user-images.githubusercontent.com/77126126/225573376-cfd145c2-9ab7-47fa-8d5c-41b5d10436d1.png)
+ `сборка formatter_lib`
 
 
 ### Задание 2
