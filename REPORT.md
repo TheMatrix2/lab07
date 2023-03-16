@@ -23,7 +23,8 @@ $ open https://cmake.org/
 Создайте `CMakeList.txt` в директории [formatter_lib](formatter_lib),
 с помощью которого можно будет собирать статическую библиотеку *formatter*.
 
- file:///home/thematrix/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/photo_2023-03-13_10-21-25.jpg
+ ![image](https://user-images.githubusercontent.com/77126126/225571945-6a48ea5a-9f2f-475d-acd6-595d2bd19d92.png)
+
 
 ### Задание 2
 У компании "Formatter Inc." есть перспективная библиотека,
