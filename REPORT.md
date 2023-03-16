@@ -37,12 +37,25 @@ $ open https://cmake.org/
 руководитель поручает заняться созданием `CMakeList.txt` для библиотеки 
 *formatter_ex*, которая в свою очередь использует библиотеку *formatter*.
 
+![image](https://user-images.githubusercontent.com/77126126/225576889-b2be4d04-7269-4f34-8659-2c5e80f8efef.png)
+`создание CMakeList.txt для formatter_ex_lib на основе созданного в formatter_lib`
+
 ### Задание 3
 Конечно же ваша компания предоставляет примеры использования своих библиотек.
 Чтобы продемонстрировать как работать с библиотекой *formatter_ex*,
 вам необходимо создать два `CMakeList.txt` для двух простых приложений:
 * *hello_world*, которое использует библиотеку *formatter_ex*;
 * *solver*, приложение которое испольует статические библиотеки *formatter_ex* и *solver_lib*.
+
+![image](https://user-images.githubusercontent.com/77126126/225580259-e82627cf-2a27-43de-98a6-4bd08dfd5033.png)
+`CMakeList.txt для приложения hello_world (подключение библиотеки formatter_ex_lib с указанием возможности ее линковки под именем hello; подключение исходного hello_world.cpp файла)`
+
+![image](https://user-images.githubusercontent.com/77126126/225579760-d0208cf5-b4e2-4cf0-9812-beb7d5b2215f.png)
+`создание CMakeList.txt для библиотеки solver_lib`
+
+![image](https://user-images.githubusercontent.com/77126126/225581794-91be9cbf-57e7-4f3e-912c-8f436d2cd53c.png)
+`CMakeList.txt для приложения solver_application`
+
 
 **Удачной стажировки!**
 
